@@ -168,12 +168,7 @@ int main()
         default:
         cout<<"Wrong choice. Exiting......";
         }
-    }
-   
-
-
-
-    
+    } 
     return 0;
 
 }
